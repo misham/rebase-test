@@ -3,3 +3,4 @@ bar
 foo3
 bar3
 foo2
+bar1
